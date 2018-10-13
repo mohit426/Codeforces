@@ -5,7 +5,6 @@
 #define mp make_pair
 #define ss second
 #define ff first
-#define MOD 1000000007
 #define loop(i,s,e) for(ll i=s;i<=e;i++)
 #define loopr(i,s,e) for(ll i=s;i>=e;i--)
 #define countd(n)	(log10(n)+1)
